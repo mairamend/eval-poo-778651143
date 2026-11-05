@@ -5,8 +5,8 @@
  * Ne modifiez rien d'autre dans ce fichier : les valeurs ci-dessous sont calculées à partir de N.
  */
 public final class Parametres {
-    public static final String MATRICULE = "A_REMPLIR";
-    public static final int N = 0;                                // <-- À REMPLACER
+    public static final String MATRICULE = "778651143";
+    public static final int N = 43;                                // <-- À REMPLACER
 
     public static final long TARIF_KG = 400 + 10 * (N % 10);      // FCFA par kg
     public static final long SURCHARGE_HORS_DAKAR = 1500;         // FCFA
